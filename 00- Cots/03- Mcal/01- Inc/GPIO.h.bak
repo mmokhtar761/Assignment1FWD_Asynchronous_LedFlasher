@@ -38,8 +38,9 @@
  *  GLOBAL FUNCTION PROTOTYPES
  *********************************************************************************************************************/
 /******************************************************************************
-* \Syntax          :                                  
-* \Description     :                               
+* \Syntax          : void IntCrtl_Init(void)                                      
+* \Description     : initialize IntCrtl\SCB Module by parsing the Configuration 
+*                    into IntCrtl\SCB registers                                    
 *                                                                             
 * \Sync\Async      : Asynchronous                                               
 * \Reentrancy      : Reentrant                                             
